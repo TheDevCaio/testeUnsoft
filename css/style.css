@@ -162,7 +162,6 @@ section .container h3 {
 
 
 @media (max-width: 768px) {
-  /* HEADER */
   .topo .container {
     flex-wrap: wrap;
     gap: 10px;
@@ -181,7 +180,6 @@ section .container h3 {
     padding: 0.3rem 0.6rem;
   }
   
-  /* BANNER E FILTRO */
   .banner {
     height: auto;
     padding: 20px 10px;
@@ -212,7 +210,6 @@ section .container h3 {
     font-size: 0.9rem;
   }
   
-  /* CARDS */
   .card-imovel img {
     height: 160px;
   }
@@ -229,7 +226,6 @@ section .container h3 {
     font-size: 0.8rem;
   }
   
-  /* FOOTER */
   .footer .row {
     flex-direction: column;
     gap: 20px;
@@ -249,7 +245,6 @@ section .container h3 {
     font-size: 1.4rem !important;
   }
   
-  /* CAROUSEL SETAS */
   .slick-prev, .slick-next {
     width: 30px;
     height: 30px;
