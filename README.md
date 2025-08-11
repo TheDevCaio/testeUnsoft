@@ -19,39 +19,16 @@ Site responsivo para exibição de imóveis, com filtros, carrosséis e informa�
 
 1. Clone este repositório:
 
-   ```bash
    git clone <URL_DO_REPOSITÓRIO>
 
 Navegue até a pasta do projeto:
 
-bash
-Copiar
-Editar
+
 cd nome-do-projeto
 Abra o arquivo index.html no seu navegador preferido (Chrome, Firefox, Edge, etc.):
 
 Você pode abrir direto pelo sistema operacional (clicando duas vezes no arquivo)
 
-Ou abrir via linha de comando, por exemplo:
-
-bash
-Copiar
-Editar
-start index.html     # Windows
-open index.html      # macOS
-xdg-open index.html  # Linux
-📁 Estrutura do Projeto
-graphql
-Copiar
-Editar
-/
-├── css/
-│   └── style.css           # Estilos personalizados
-├── img/
-│   └── logo.webp           # Logo e imagens do site
-├── js/
-│   └── script.js           # Scripts JavaScript para carrosséis e interatividade
-└── index.html              # Página principal do site
 ⚙ Funcionalidades
 Navegação responsiva com menu simples e direto
 
